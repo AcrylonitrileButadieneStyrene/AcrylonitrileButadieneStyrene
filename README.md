@@ -1,0 +1,15 @@
+${\color{transparent}█████\color{#464646}█\color{#707070}███\color{#464646}█\color{transparent}█████}$<br>
+${\color{transparent}███\color{#707070}█\color{#464646}█\color{white}█\color{#464646}█\color{#707070}█\color{#464646}█\color{white}█\color{#464646}█\color{#707070}█\color{transparent}███}$<br>
+${\color{transparent}██\color{#707070}███\color{#464646}█\color{#eeeeee}███\color{#464646}█\color{#707070}███\color{transparent}██}$<br>
+${\color{transparent}█\color{#707070}██\color{#c9c9c9}███\color{#c3c3c3}███\color{#c9c9c9}███\color{#707070}██\color{transparent}█}$<br>
+${\color{transparent}█\color{#707070}█\color{#c9c9c9}███\color{#ffffff}█████\color{#c9c9c9}███\color{#707070}█\color{transparent}█}$<br>
+${\color{#c9c9c9}████\color{#ffffff}█\color{#1e1e1e}██\color{#ffffff}█\color{#1e1e1e}██\color{#ffffff}█\color{#c9c9c9}████}$<br>
+${\color{#c9c9c9}████\color{#ffffff}███████\color{#c9c9c9}████}$<br>
+${\color{#c9c9c9}████\color{#ffffff}███████\color{#c9c9c9}████}$<br>
+${\color{#707070}████████\color{#707070}███████}$<br>
+${\color{#707070}██████\color{white}███\color{#707070}██████}$<br>
+${\color{transparent}█\color{#707070}████\color{white}█████\color{#707070}████\color{transparent}█}$<br>
+${\color{transparent}█\color{#707070}████\color{white}█████\color{#707070}████\color{transparent}█}$<br>
+${\color{transparent}██\color{#707070}█\color{#eeeeee}███\color{white}███\color{#eeeeee}███\color{#707070}█\color{transparent}██}$<br>
+${\color{transparent}███\color{#eeeeee}████\color{white}█\color{#eeeeee}████\color{transparent}███}$<br>
+${\color{transparent}█████\color{#eeeeee}██\color{white}█\color{#eeeeee}██\color{transparent}█████}$<br>
